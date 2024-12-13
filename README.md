@@ -81,6 +81,4 @@ Run the script with the following syntax:
 ## Version
 Current version: `0.1.0`
 
-## License
-This script is distributed under the MIT License.
 
